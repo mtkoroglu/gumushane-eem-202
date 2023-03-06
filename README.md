@@ -10,7 +10,7 @@ i_C(t) = C\frac{dV_c(t)}{dt}
 <p align="justify">olarak verilmişti. Bu birinci dereceden âdi diferansiyel denklemin her iki tarafının $$k=t_0$$ anından $$k=t$$ anına kadar integralini alırsak aşağıdaki çözümü elde ederiz.</p>
 
 <figure>
-<img src="şekil/RC-devresi-basamak-cevabı.jpg" alt="RC devresi" width=50% height=auto>
+<img src="figure/RC-devresi-basamak-cevabı.jpg" alt="RC devresi" width=50% height=auto>
 <figcaption>RC devresi</figcaption>
 </figure>
 
