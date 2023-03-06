@@ -19,7 +19,7 @@ V_C(t) = V_C(t_0) + \frac{1}{C}\int_{t_0}^ti_C(k)dk
 <p align="justify">Aşağıdaki şekilde gördüğümüz üzere güç kaynağı, rezistör ve kapasitörden oluşan RC devresinin zorlanmış cevabını analiz edelim. Burada güç kaynağını bağlayıp devre elemanları üzerinde gerilim-akım oluşturduğumuzdan dolayı devreyi "zorlamış" olduk.</p>
 
 <figure>
-<img src="figure/RC-devresi-basamak-cevabı.jpg" alt="RC devresi" width=50% height=auto>
+<img src="figure/RC-devresi-basamak-cevabı.jpg" alt="RC devresi" width=40% height=auto>
 <figcaption>Güç kaynağına bağlı seri bir RC devresi</figcaption>
 </figure>
 
