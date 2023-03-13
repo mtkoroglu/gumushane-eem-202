@@ -1,6 +1,6 @@
 <h2>RLC Devreleri</h2>
-<p align="justify">Bu sayfada kapasitör ve endüktör devre elemanlarını anlamaya çalışıp RC, RL ve RLC devrelerinin basamak (zorlanmış) ve doğal cevaplarına bakacağız.</p>
-<h3>RC devresi</h3>
+<p align="justify">Bu sayfada kapasitör ve endüktör devre elemanlarının matematiksel modellerini ve Kirchoff'un akım ve gerilim kanunlarını kullanarak RC, RL ve RLC devrelerinin zorlanmış (basamak) ve doğal cevaplarına bakacağız.</p>
+<h3>Kapasitörün Matematiksel Modeli</h3>
 <p align="justify">Kapasitörün matematiksel modeli</p> 
 
 ```math
